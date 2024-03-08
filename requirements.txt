@@ -1,0 +1,13 @@
+openai
+fastapi
+uvicorn
+fireworks-ai
+pydantic
+python-dotenv
+requests
+fireworks
+gtts
+
+
+
+
