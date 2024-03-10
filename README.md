@@ -1,4 +1,4 @@
-# GPT-4-Vision + ElevenLabs
+# FireLLaVA(Alternative GPT-4-Vision) + ElevenLabs
 
 **VisionAssist** is an innovative project that combines the power of **GPT-4-Vision** and **ElevenLabs** to create an accessible and empowering experience for blind and visually impaired individuals.
 
