@@ -5,7 +5,7 @@
 ## Features
 
 1. **Real-time Image Understanding**:
-   - GPT-4-Vision analyzes images from live video every 6 seconds.
+   - It analyzes images from live video every 6 seconds.
    - It answers questions about the content within the images.
 
 2. **Text-to-Speech Conversion**:
